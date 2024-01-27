@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashvisachdeva
-- 👀 I’m interested in working as a software developer in the future.
-- 🌱 I’m currently learning few coding languages.
+- 👀 I’m interested in working as a machine learning enginneer in the future.
+- 🌱 I’m currently learning few coding languages and concepts about machine learning
 - 💞️ I’m looking to collaborate on real time projects so that i can learn very well.
 
 <!---
